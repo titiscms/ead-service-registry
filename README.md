@@ -1,2 +1,2 @@
 # service-registry
-Serviço para registrar todos os micros serviços do sistema ead
+Service to register all ead system microservices
